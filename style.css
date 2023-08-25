@@ -1,0 +1,13 @@
+h1 {
+    color: red
+}
+
+#headerNavigation {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.banner {
+    background-color: aqua;
+    height: 500px;
+}
